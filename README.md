@@ -1,6 +1,8 @@
 # Harris_Corner_and_SIFT
 Object/Face Detection using Harris Corners and SIFT-like Descriptors. 
 
+This is done for the assignment in CMPT361 course, SFU by Kangkang Yin professor.
+
 Part 1: Detect Harris Corner. 
 
 <img width="652" alt="harris" src="https://user-images.githubusercontent.com/87463803/185773190-5ae3bb70-1465-4b76-8687-b80f95ec455a.png">
